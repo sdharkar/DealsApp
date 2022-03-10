@@ -22,8 +22,6 @@ public class Deals {
 		this.deal = deal;
 	}
 
-	
-
 	public String getId() {
 		return id;
 	}
@@ -52,6 +50,5 @@ public class Deals {
 	public String toString() {
 		return "Deals [id=" + id + ", item=" + item + ", deal=" + deal + "]";
 	}
-	
 	
 }

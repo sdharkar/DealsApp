@@ -41,7 +41,6 @@ public class DealsAppApplication implements CommandLineRunner {
 			System.out.println(d.toString());
 		}
 		
-		
 	}
 
 }
